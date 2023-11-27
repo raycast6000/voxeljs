@@ -1,12 +1,13 @@
 {
   "name": "voxeljs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Another ReactJS copy",
   "main": "index.js",
+  "bin": "./cli.js",
   "scripts": {
     "say": "node src/hello.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Raycast",
+  "license": "MIT"
 }
