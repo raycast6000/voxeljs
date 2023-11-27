@@ -1,0 +1,12 @@
+{
+  "name": "voxeljs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "say": "node src/hello.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
